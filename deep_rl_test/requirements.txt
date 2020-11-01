@@ -1,0 +1,7 @@
+tensorflow
+tqdm
+pandas
+piglet
+gym
+opencv-python
+#git+https://github.com/maximecb/gym-miniworld
